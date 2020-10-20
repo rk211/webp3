@@ -1,0 +1,22 @@
+.hero{
+    padding-top: 10.5rem;
+    padding-bottom: 10rem;
+    text-align: center;
+    color: #000;
+    background-image: url("./images/d2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size:cover;
+}
+.page-section h2.section-heading{
+    font-size: 2.5rem;
+    margin-top:  0;
+    margin-bottom: 1rem;
+}
+.page-section h3.section-subheading{
+    font-size: 1rem;
+    font-weight:light;
+    font-style:italic;
+    margin-bottom: 4rem;
+}
